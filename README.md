@@ -1,2 +1,3 @@
 # Hospital-Emergency-rRoom-Analytic
-project focuses on analyzing Emergency Room  operations and patient performance metrics using Power BI to support data-driven healthcare decision-making. The dashboard was developed using a dataset patient records  providing insights into patient flow, waiting times, satisfaction levels, admissions, referrals, and departmental performance.
+##Project Objective
+To develop an interactive Power BI dashboard for analyzing Emergency Room  patient data, tracking operational KPIs such as patient volume, wait time, satisfaction score, admissions, and referrals. The objective is to leverage data analytics and DAX-driven insights to optimize resource allocation, improve service efficiency, and support data-driven healthcare decision-making.
