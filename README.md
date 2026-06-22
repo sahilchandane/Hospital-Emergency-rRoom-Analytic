@@ -25,4 +25,5 @@ To develop an interactive Power BI dashboard for analyzing Emergency Room  patie
 ## Dashboard
 - <a href="https://github.com/sahilchandane/Hospital-Emergency-rRoom-Analytic/blob/main/healthcare%20metric%20project%201.pbix">Dashboard link</a>
 ## Project Insight
+- <a href="https://github.com/sahilchandane/Hospital-Emergency-rRoom-Analytic/blob/main/Hospital%20Emergency%20room%20metric%20ppt.pdf">Project report</a>
 
